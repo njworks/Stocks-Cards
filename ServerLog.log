@@ -1,0 +1,346 @@
+Dec 01, 2017 8:04:12 AM bot.Bot run
+INFO: Bot thread run
+Dec 01, 2017 8:07:42 AM bot.Bot run
+INFO: Bot given permission to play
+Dec 01, 2017 8:07:43 AM bot.Bot botStart
+INFO: Key: 0 Value: OnePlayer
+Dec 01, 2017 8:07:43 AM bot.Bot botStart
+INFO: Key: 1 Value: Bot 1
+Dec 01, 2017 8:07:43 AM bot.Bot botStart
+INFO: Key: 2 Value: Bot 2
+Dec 01, 2017 8:07:43 AM bot.Bot botStart
+INFO: Key: 3 Value: Bot 3
+Dec 01, 2017 8:07:43 AM bot.Bot run
+INFO: Bots 3
+Dec 01, 2017 8:07:43 AM bot.Bot run
+INFO: Bot created bot names
+Dec 01, 2017 8:07:46 AM bot.Bot run
+INFO: Bot gonna play round
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 1 Cash before buy/sell: 500.0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 1 buy before [2, 5, 1, 1, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 1 buy after [2, 6, 1, 1, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 1 Cash after buy/sell: 397.0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: yes vote: Ericsson no vote: Apple
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 Cash before buy/sell: 500.0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 buy before [7, 0, 2, 0, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 buy after [7, 0, 3, 0, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 sell before [7, 0, 3, 0, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 sell after [6, 0, 3, 0, 1]
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Bot 2 Cash after buy/sell: 497.0
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: yes vote: Cisco no vote: BP
+Dec 01, 2017 8:07:46 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Bot 3 Cash before buy/sell: 500.0
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Bot 3 buy before [4, 1, 4, 0, 1]
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Bot 3 buy after [4, 1, 4, 1, 1]
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Bot 3 Cash after buy/sell: 397.0
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: yes vote: BP no vote: Ericsson
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:47 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:07:47 AM bot.Bot run
+INFO: Bot finished round
+Dec 01, 2017 8:22:37 AM server.CardService playGame
+INFO: Before vote   Apple: £100   BP: £100   Cisco: £100   Dell: £100   Ericsson: £100 
+Dec 01, 2017 8:22:37 AM server.CardService playGame
+INFO: After vote   Apple: £100   BP: £110   Cisco: £80   Dell: £100   Ericsson: £100 
+Dec 01, 2017 8:22:38 AM bot.Bot run
+INFO: Bot gonna play round
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 Cash before buy/sell: 397.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 buy before [2, 6, 1, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 buy after [2, 6, 2, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 sell before [2, 6, 2, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 sell after [1, 6, 2, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 1 Cash after buy/sell: 414.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: yes vote: BP no vote: Apple
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 Cash before buy/sell: 497.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 buy before [6, 0, 3, 0, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 buy after [6, 0, 3, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 sell before [6, 0, 3, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 sell after [5, 0, 3, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 2 Cash after buy/sell: 494.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: yes vote: BP no vote: Cisco
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 3 Cash before buy/sell: 397.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 3 buy before [4, 1, 4, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 3 buy after [4, 1, 5, 1, 1]
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Bot 3 Cash after buy/sell: 314.0
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: yes vote: Cisco no vote: Ericsson
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:22:38 AM bot.Bot run
+INFO: Bot finished round
+Dec 01, 2017 8:28:16 AM server.CardService playGame
+INFO: Before vote   Apple: £100   BP: £110   Cisco: £80   Dell: £100   Ericsson: £100 
+Dec 01, 2017 8:28:16 AM server.CardService playGame
+INFO: After vote   Apple: £100   BP: £90   Cisco: £80   Dell: £100   Ericsson: £100 
+Dec 01, 2017 8:28:18 AM bot.Bot run
+INFO: Bot gonna play round
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 Cash before buy/sell: 414.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 buy before [1, 6, 2, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 buy after [1, 7, 2, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 sell before [1, 7, 2, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 sell after [1, 6, 2, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 1 Cash after buy/sell: 411.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: yes vote: Apple no vote: Cisco
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 2 Cash before buy/sell: 494.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 2 buy before [5, 0, 3, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 2 buy after [6, 0, 3, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 2 Cash after buy/sell: 391.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: yes vote: Cisco no vote: Ericsson
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 3 Cash before buy/sell: 314.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 3 buy before [4, 1, 5, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 3 buy after [5, 1, 5, 1, 1]
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Bot 3 Cash after buy/sell: 211.0
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: yes vote: Dell no vote: Ericsson
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:18 AM bot.Bot run
+INFO: Bot finished round
+Dec 01, 2017 8:28:18 AM server.CardService playGame
+INFO: Before vote   Apple: £100   BP: £90   Cisco: £80   Dell: £100   Ericsson: £100 
+Dec 01, 2017 8:28:18 AM server.CardService playGame
+INFO: After vote   Apple: £110   BP: £90   Cisco: £80   Dell: £120   Ericsson: £100 
+Dec 01, 2017 8:28:21 AM server.CardService playGame
+INFO: Before vote   Apple: £110   BP: £90   Cisco: £80   Dell: £120   Ericsson: £100 
+Dec 01, 2017 8:28:21 AM server.CardService playGame
+INFO: After vote   Apple: £110   BP: £90   Cisco: £80   Dell: £120   Ericsson: £100 
+Dec 01, 2017 8:28:21 AM bot.Bot run
+INFO: Bot gonna play round
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 4
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 Cash before buy/sell: 411.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 buy before [1, 6, 2, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 buy after [1, 6, 2, 1, 2]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 sell before [1, 6, 2, 1, 2]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 sell after [1, 6, 2, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 1 Cash after buy/sell: 408.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: yes vote: Cisco no vote: Dell
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 2 Cash before buy/sell: 391.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 2 buy before [6, 0, 3, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 2 buy after [6, 0, 4, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 2 Cash after buy/sell: 308.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: yes vote: Dell no vote: BP
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 2
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 1
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Random values 3
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 Cash before buy/sell: 211.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 buy before [5, 1, 5, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 buy after [5, 1, 6, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 sell before [5, 1, 6, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 sell after [4, 1, 6, 1, 1]
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Bot 3 Cash after buy/sell: 238.0
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: yes vote: BP no vote: Dell
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot randomBot
+INFO: Vote Valid
+Dec 01, 2017 8:28:21 AM bot.Bot run
+INFO: Bot finished round
+Dec 01, 2017 8:28:23 AM server.CardService playGame
+INFO: Before vote   Apple: £110   BP: £90   Cisco: £80   Dell: £120   Ericsson: £100 
+Dec 01, 2017 8:28:23 AM server.CardService playGame
+INFO: After vote   Apple: £110   BP: £90   Cisco: £100   Dell: £120   Ericsson: £100 
+Dec 01, 2017 8:28:23 AM server.CardService printWinner
+INFO: 4: £1478 Player: Bot 1
+Dec 01, 2017 8:28:23 AM server.CardService printWinner
+INFO: 3: £1588 Player: Bot 3
+Dec 01, 2017 8:28:23 AM server.CardService printWinner
+INFO: 2: £1597 Player: OnePlayer
